@@ -45,3 +45,10 @@ body, html {
     color: white;
     font-size: 30px;
   }
+
+  .grid-container {
+    display: grid;
+    column-gap: 50px;
+  }
+  .image {
+  }
