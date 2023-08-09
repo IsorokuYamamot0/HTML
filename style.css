@@ -38,7 +38,7 @@ body, html {
   .header {
     padding: 35px;
     text-align: center;
-    height: 35%;
+    height: 450px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("home-banner-4.jpg");
     background-position: center;
     background-size: cover;
