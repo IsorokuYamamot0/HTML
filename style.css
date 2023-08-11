@@ -28,6 +28,14 @@ body, html {
     transform: translate(-50%, -50%);
     color: rgb(255, 255, 255);
   }
+  .image {
+    background-image: url("bugatti.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
   
   
   .hero-text button:hover {
@@ -74,4 +82,7 @@ h5 {
 }
 a{
   color:rgb(255, 255, 255);
+}
+.grid-container {
+  display: grid;
 }
